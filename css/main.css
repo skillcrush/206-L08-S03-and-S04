@@ -52,7 +52,6 @@ header .donate-link {
   padding: 10px 30px;
   color: white;
   /* add align-self; flex-end; to overwrite align-items: center; from the parent container */
-  align-self: flex-end;
   border-radius: 5px;
 }
 
